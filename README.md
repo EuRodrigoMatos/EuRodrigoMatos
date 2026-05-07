@@ -53,13 +53,13 @@ Painel inspirado no Zabbix com organização dinâmica de dispositivos.
 
 ---
 
-# 🚀 GitHub Analytics
+# # 🚀 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuRodrigoMatos&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EuRodrigoMatos&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
