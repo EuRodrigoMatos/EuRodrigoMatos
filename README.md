@@ -53,7 +53,7 @@ Painel inspirado no Zabbix com organização dinâmica de dispositivos.
 
 ---
 
-# # 🚀 GitHub Analytics
+## 🚀 GitHub Analytics
 
 <div align="center">
 
