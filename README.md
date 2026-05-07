@@ -36,18 +36,6 @@
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuRodrigoMatos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9"/>
-
-</div>
-
----
-
 # 🔥 Projetos em Destaque
 
 ## 🌾 PantaVisita
@@ -65,21 +53,23 @@ Painel inspirado no Zabbix com organização dinâmica de dispositivos.
 
 ---
 
-# 🏆 Conquistas
+# 🚀 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EuRodrigoMatos&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuRodrigoMatos&show_icons=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 ---
 
-# 📈 Atividade
+# ⚡ Tecnologias que mais utilizo
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EuRodrigoMatos&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img src="https://skillicons.dev/icons?i=php,react,ts,js,postgresql,python" />
 
 </div>
 
