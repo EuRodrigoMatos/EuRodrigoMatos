@@ -18,6 +18,7 @@
 ```typescript
 const rodrigo = {
     foco: "Agritech Solutions",
+
     stack: [
         "PHP",
         "React",
@@ -25,12 +26,14 @@ const rodrigo = {
         "PostgreSQL",
         "Python"
     ],
+
     especialidade: [
         "Dark UI",
         "Dashboards",
         "Sistemas Corporativos",
         "Monitoramento"
     ],
+
     projetos: [
         "PantaVisita",
         "PantaConect",
@@ -126,16 +129,6 @@ Painel inspirado no Zabbix com:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EuRodrigoMatos&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/EuRodrigoMatos/EuRodrigoMatos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
