@@ -1,70 +1,75 @@
-```md
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=180&section=header&text=Rodrigo%20Matos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Agritech%20Solutions&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Rodrigo%20Matos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Agritech%20•%20Dark%20UI&descAlignY=60&descAlign=50"/>
 
 </p>
 
-<h3 align="center">
+<div align="center">
 
-Building modern systems for Agribusiness 🌾
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=Desenvolvedor+Full+Stack;Criando+soluções+modernas;PHP+•+React+•+TypeScript;Agritech+Solutions;Dark+UI+Specialist" />
 
-</h3>
-
----
-
-# 👨‍💻 Sobre
-
-Desenvolvedor Full Stack focado em:
-
-- 🌾 Soluções para Agronegócio
-- 🖥️ Dashboards modernos
-- 📡 Sistemas de monitoramento
-- ⚡ Interfaces Dark UI
-- 🤖 Automações e IA
+</div>
 
 ---
 
-# 🚀 Projetos
+# 👨‍💻 Sobre mim
+
+<div align="left">
+
+- 🚀 Desenvolvedor Full Stack
+- 🌾 Focado em soluções para Agronegócio
+- 🖥️ Criador do PantaVisita e PantaConect
+- 📡 Desenvolvendo dashboards modernos e sistemas de monitoramento
+- ⚡ Apaixonado por UI moderna e automações
+
+</div>
+
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,python,postgresql,git,vscode" />
+
+</div>
+
+---
+
+# 🔥 Projetos em Destaque
 
 ## 🌾 PantaVisita
-Sistema para visitas técnicas agrícolas com foco em produtividade e mobilidade.
+Sistema moderno para visitas técnicas em lavouras com interface moderna e intuitiva.
+
+---
 
 ## 🖥️ PantaConect
-Sistema corporativo com dashboards modernos e gestão operacional.
+Sistema corporativo com dashboard moderno em Dark Mode.
+
+---
 
 ## 📡 Monitoramento
 Painel inspirado no Zabbix com organização dinâmica de dispositivos.
 
 ---
 
-# 🛠️ Stack
+## 🚀 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,react,ts,js,postgresql,python,docker,git,vscode&perline=5" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EuRodrigoMatos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Tecnologias que mais utilizo
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EuRodrigoMatos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EuRodrigoMatos&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=php,react,ts,js,postgresql,python" />
 
 </div>
 
@@ -75,7 +80,7 @@ Painel inspirado no Zabbix com organização dinâmica de dispositivos.
 <div align="center">
 
 <a href="https://github.com/EuRodrigoMatos">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -84,7 +89,6 @@ Painel inspirado no Zabbix com organização dinâmica de dispositivos.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=EuRodrigoMatos&color=0ea5e9&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer"/>
 
 </div>
-```
