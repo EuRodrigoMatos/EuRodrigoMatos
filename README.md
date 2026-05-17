@@ -1,41 +1,90 @@
+```md
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=260&section=header&text=Rodrigo%20Matos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Agritech%20Solutions%20•%20Dark%20UI&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=180&section=header&text=Rodrigo%20Matos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Agritech%20Solutions&descAlignY=55"/>
 
 </p>
 
+<h3 align="center">
+
+Building modern systems for Agribusiness 🌾
+
+</h3>
+
+---
+
+# 👨‍💻 Sobre
+
+Desenvolvedor Full Stack focado em:
+
+- 🌾 Soluções para Agronegócio
+- 🖥️ Dashboards modernos
+- 📡 Sistemas de monitoramento
+- ⚡ Interfaces Dark UI
+- 🤖 Automações e IA
+
+---
+
+# 🚀 Projetos
+
+## 🌾 PantaVisita
+Sistema para visitas técnicas agrícolas com foco em produtividade e mobilidade.
+
+## 🖥️ PantaConect
+Sistema corporativo com dashboards modernos e gestão operacional.
+
+## 📡 Monitoramento
+Painel inspirado no Zabbix com organização dinâmica de dispositivos.
+
+---
+
+# 🛠️ Stack
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1000&lines=Desenvolvedor+Full+Stack;Criando+soluções+modernas;Agritech+Solutions;PHP+•+React+•+TypeScript;Dark+UI+Specialist;Sistemas+Modernos+e+Escaláveis" />
+<img src="https://skillicons.dev/icons?i=php,react,ts,js,postgresql,python,docker,git,vscode&perline=5" />
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 📊 GitHub Stats
 
-```typescript
-const rodrigo = {
-    foco: "Agritech Solutions",
+<div align="center">
 
-    stack: [
-        "PHP",
-        "React",
-        "TypeScript",
-        "PostgreSQL",
-        "Python"
-    ],
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EuRodrigoMatos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-    especialidade: [
-        "Dark UI",
-        "Dashboards",
-        "Sistemas Corporativos",
-        "Monitoramento"
-    ],
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuRodrigoMatos&layout=compact&theme=tokyonight&hide_border=true"/>
 
-    projetos: [
-        "PantaVisita",
-        "PantaConect",
-        "Monitoramento"
-    ]
-}
+</div>
+
+---
+
+# 🏆 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EuRodrigoMatos&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Contato
+
+<div align="center">
+
+<a href="https://github.com/EuRodrigoMatos">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=EuRodrigoMatos&color=0ea5e9&style=for-the-badge"/>
+
+</div>
+```
